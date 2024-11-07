@@ -2,7 +2,6 @@
 
 ![logo-removebg-preview](https://github.com/user-attachments/assets/8f4d4f0d-fae2-4098-bd4f-ab9601c955fa)
 
-
 [Quietdev Studio](https://www.quietdevstudio.com/) is a comprehensive learnning hub for learning web development. We help users learn cutting-edge technologies, develop innovative projects, and accelerate their careers - building impressive portfolio of projects they need to get hired as web developers.
 
 ---
